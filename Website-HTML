@@ -1,0 +1,87 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<main>
+  <body>
+  <head id="title">
+    <h1> 
+      Evan Hangliter's Plan To MI/AI
+    </h1>
+    <h4 id="subtitle">
+      A journey from a basic understanding to technical mastery and thought leadership on artificial intelligence and changing the world.
+    </h4>
+  </head>
+<div>
+  <figure id="photodiv">
+  <img id="photo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2019%2F02%2Fedge_globe_shutterstock_TAW4.jpg&f=1&nofb=1" alt="A picture that shows an inter-connected world with IoT"/>
+<figcaption id="img-caption">
+    The world as we know it is changing at such a rapid pace. Businesses and individuals that fail to grow will be left behind
+</figcaption>
+</figure>
+</div>
+<div>
+   <h4 id="action-plan"> 
+     Here is a "rough" course of action:
+  </h4>
+  <ul>
+      <li>
+        Learn HTML5 - COMPLETE
+    </li>
+      <li>
+        Learn CSS3 - COMPLETE
+    </li>
+      <li>
+        Learn JavaScript
+    </li>
+      <li>
+        Study Data Structures
+    </li>
+      <li>
+        Learn Front End - Bootstrap, JQuery, React, Redux
+    </li>
+      <li>
+        Data Visualization - JSON APIs, D3, Ajax
+    </li>
+    <li>
+      API's and Microservices
+        <ol>
+          <li>
+            Managing Packages with Npm
+          </li>
+          <li>
+            Basic Node and Express
+          </li>
+          <li>
+            MongoDB and Mongoose
+          </li>
+      </ol>
+    </li>
+    <li>
+      C# & C++
+    </li>
+    <li>
+      R, Python, and Ruby On Rails
+    </li>
+    <li>
+      TensorFlow
+    </li>
+    <li>
+      Neural Networks
+    </li>
+    <li>
+      Build First MI/AI Application!!! :)
+    </li>
+  </ul>
+  <p id="quote-1">
+    "This is a labor of love to learn and to contribute to the human race and our experience on planet earth."
+  </p>
+  <cite id="citation">
+    ~ Sir Isaac...jk I said that.
+  </cite>
+  <p id="follow-me">
+    Interested in seeing my latest learnings? Follow my <a id="git-hub-link" href="https://github.com/EvanHangliter">GitHub account</a>.
+  </p>
+        
+</div>
+
+  </body>
+</main>
