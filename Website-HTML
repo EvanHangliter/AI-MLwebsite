@@ -1,6 +1,6 @@
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
 
-<main>
+<main id="main">
   <body>
   <head id="title">
     <h1> 
@@ -13,15 +13,15 @@
 <div>
   <figure id="photodiv">
   <img id="photo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2019%2F02%2Fedge_globe_shutterstock_TAW4.jpg&f=1&nofb=1" alt="A picture that shows an inter-connected world with IoT"/>
-<figcaption id="img-caption">
-    The world as we know it is changing at such a rapid pace. Businesses and individuals that fail to grow will be left behind
+<figcaption id="img-caption"><strong>
+    The world as we know it is changing at such a rapid pace. Businesses and individuals that fail to grow will be left behind.</strong>
 </figcaption>
 </figure>
 </div>
 <div>
-   <h4 id="action-plan"> 
-     Here is a "rough" course of action:
-  </h4>
+   <h5 id="action-plan"> 
+     <u> Here is a "rough" course of action</u>:
+  </h5>
   <ul>
       <li>
         Learn HTML5 - COMPLETE
@@ -71,12 +71,12 @@
       Build First MI/AI Application!!! :)
     </li>
   </ul>
-  <p id="quote-1">
-    "This is a labor of love to learn and to contribute to the human race and our experience on planet earth."
+  <p id="quote-1"><i>
+    "This is a labor of love to learn and to contribute to the human race and our experience on planet earth."</i>
   </p>
-  <cite id="citation">
-    ~ Sir Isaac...jk I said that.
-  </cite>
+  <h6 id="citation">
+     ~ Sir Isaac...jk I said that.
+  </h6>
   <p id="follow-me">
     Interested in seeing my latest learnings? Follow my <a id="git-hub-link" href="https://github.com/EvanHangliter">GitHub account</a>.
   </p>
